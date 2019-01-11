@@ -6,3 +6,7 @@ Mukasine Marie Claire
 * It is game that is played by two people where they throw dices and the first person to reach 100% is the winner. 
 #Technologies Used
 * HTML , CSS ,JavaScript, jQuery ,Bootstrap
+#Setup/Installation Requirements
+* Switch on your computer
+* Through Google chrome, visit the website i have mentioned in the description above
+* Visit my repository if you wish to make any changes https://github.com/mukasine/   .git
