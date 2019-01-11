@@ -22,4 +22,6 @@ The following is what my program should handle:
 | If Player 1 rolls a 1, no score is added and round for Player 1 ends | Roll = 1 | Round total = 2 / Total score = 2 / Player 2 begins |
 | Repeat for Player 2 | Roll = 1 | Round total = 0 / Total score = 0 / Player 1 begins |
 | When a player's total score reaches 100 or more, game ends and winner page shows | Player 1 total score = 100 | Winner page |
-	
+#Support / Contact details
+* e-mail:mclaremukasine@gmail.com
+* Tel:0782586013
