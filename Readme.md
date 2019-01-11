@@ -25,3 +25,5 @@ The following is what my program should handle:
 #Support / Contact details
 * e-mail:mclaremukasine@gmail.com
 * Tel:0782586013
+#License
+[MIT] Copyright (c) {year} {MUKASINE Marie Claire}
