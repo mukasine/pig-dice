@@ -9,7 +9,7 @@ Mukasine Marie Claire
 # Setup/Installation Requirements
 * Switch on your computer
 * Through Google chrome, visit the website i have mentioned in the description above
-* Visit my repository if you wish to make any changes https://github.com/mukasine/pig-dice
+* Visit my repository if you wish to make any changes https://mukasine.github.io/pig-dice
 # BDD
 The following is what my program should handle:
 
