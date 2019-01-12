@@ -1,11 +1,12 @@
 .player-console {
-    display: none;
-  }
+  display: none;
+}
  
-  body{background-color: #554d4d;
-    color:rgb(49, 43, 75);}
+body{
+  background-color: #554d4d;
+  color:rgb(49, 43, 75);}
     
-    h1{
-        text-align:center;
-        color:blue;
-    }
+h1{
+  text-align:center;
+  color:blue;
+}
