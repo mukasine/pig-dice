@@ -1,16 +1,16 @@
 # Pig Dice Game Project
-#Author
+# Author
 Mukasine Marie Claire
-#Description
+# Description
 * This a Pig Dice Game Project.that helps review what we understood in the Javascript lesson.
 * It is game that is played by two people where they throw dices and the first person to reach 100% is the winner. 
-#Technologies Used
+# Technologies Used
 * HTML , CSS ,JavaScript, jQuery ,Bootstrap
-#Setup/Installation Requirements
+# Setup/Installation Requirements
 * Switch on your computer
 * Through Google chrome, visit the website i have mentioned in the description above
-* Visit my repository if you wish to make any changes https://github.com/mukasine/   .git
-#BDD
+* Visit my repository if you wish to make any changes https://github.com/mukasine/pig-dice
+# BDD
 The following is what my program should handle:
 
 
